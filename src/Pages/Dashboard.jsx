@@ -10,6 +10,8 @@ function Dashboard() {
           <p>DashBoard</p>
         </div>
       </nav>
+
+      
       <div className="allDiv">
         <div className="sideBar">
           <Link to={"/"}>
