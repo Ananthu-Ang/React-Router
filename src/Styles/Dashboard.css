@@ -1,0 +1,37 @@
+/* body{
+    display: flex;
+    background-color: blue; */
+/* } */
+
+.navBar{
+    display: flex;
+    background-color: brown;
+    font-size: larger;
+}
+.sideBar{
+    background-color: lightslategray;
+    height: 100vh;
+    width: 40vh;
+    line-height: 50px;
+    font-weight: 600ox;
+    font-size: larger;
+    
+    
+}
+p{
+    margin-left: 40px;
+}
+p{
+    margin-left: 40px;
+}
+.allDiv{
+    display: flex;
+    
+}
+.outlet{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    width: 100%;
+}
